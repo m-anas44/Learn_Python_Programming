@@ -1,0 +1,3 @@
+This is a new file using write mode.
+This is a new line using append mode
+Added new content in read+write mode
