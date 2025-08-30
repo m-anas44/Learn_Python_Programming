@@ -28,4 +28,3 @@ This repository contains a complete Python learning journey structured in Jupyte
 
 ---
 
-Let me know if you'd like a **README file generated for you** — I can prepare it!
